@@ -16,3 +16,15 @@ I was able to complete the first project in the HTML Foundations of The Odin Pro
 I can't wait to dust off some CSS and maybe come back to this project and make it look less... basic! All of this was done within an hour, so I'm sure with a bit more time dedicated, I could make these look better, but I'll be honest, I'm a bit more keen to move forward with The Odin Project as these skills I'll developer there will help build out the projects that are currently residing as dreams in my heart!
 
 On to CSS Foundations!
+
+--
+
+Wow! Another reflection so soon.
+
+At least now the recipes don't look entirely wack. Through some basic CSS, I was able to make the pages look a little bit cleaner and less bare bones. There's still a lot of room for improvement, but I think this is a pretty start. The "back to homepage" link on the recipe pages came out so pretty and subtle.
+
+I had one "gotcha" where I was trying to enter that back to homepage link, but since I had added the class on the anchor tag and not the p, it wasn't working as anchors are not typically a block element. 
+
+It was rewarding to find a way around that, though as I write this I can think of even another. This is the kind of problem solving I love doing! 
+
+Well, let's see what's next now!
